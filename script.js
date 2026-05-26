@@ -7,7 +7,7 @@ const data = {
     items: [
       ["Wifi", "ID: TP-Link_1F24_5G<br>PW: 59919995"],
 
-      ["Before Entering The House","Please remove your shoes before entering."],
+      ["Before Entering The House","◆ <b>Please remove your shoes before entering.<br><br>◆ <b>Automatic Lock Door: Please make sure both doors are fully closed. The doors will lock automatically."],
       ["Air Conditioner Remote", `<a href="assets/pdf/shizuku-airconditioner-remote.pdf" target="_blank">Open PDF Guide</a>`],
       ["Hot Water Panel", "There is only hot water control panels in the house, mounted on the wall behind the washing machine.<br><br><b>Important notes:</b><br><br>◆ If the temperature is accidentally set to <b>60°C</b>, water may stop flowing properly.<br>◆ If the water is not getting warm, please check whether the unit is turned <b>ON</b>.<br>◆ The system may turn itself off automatically after a period of inactivity.<br><br><img src='assets/images/shizuku-hot-water-panel.png' style='width:100%; max-width:320px; border-radius:10px;'>"],
       ["Trash Disposal", "Please separate domestic waste and cans/bottles into labeled bins.<br>If the bin is full, remove the garbage from the bin, place it outside the front door, and contact the staff for collection.<br><br><img src='assets/images/garbage.png' style='width:100%; max-width:320px; border-radius:10px;'>"],
@@ -67,7 +67,7 @@ const data = {
 
       [
         "入室前",
-        `入室前に靴をお脱ぎください。`
+        `◆ <b>入室前に靴をお脱ぎください。<br><br>◆ <b>自動ロックドア： このドアは自動ロックです。両方のドアをしっかり閉めると、自動的に施錠されます。`
       ],
 
       [
@@ -132,7 +132,7 @@ const data = {
 
       [
         "进入房屋前",
-        `进入房间前请脱鞋。`
+        `◆ <b>进入房间前请脱鞋。<br><br>◆ <b>自动锁门：请确保两扇门已完全关闭，门将自动上锁。`
       ],
 
       ["空调调节",`<a href="assets/pdf/雫空调.pdf" target="_blank">Open PDF Guide</a>` ],
